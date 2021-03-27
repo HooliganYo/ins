@@ -4,7 +4,7 @@ This is a test
 
 [link](README.md)
 
-![title](http://www.pngall.com/wp-content/uploads/4/True-Bug-PNG-HD-Image.png)
+![title](bug.jpg)
 
 <https://google.com>
 
